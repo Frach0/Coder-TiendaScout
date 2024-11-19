@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "title": "Pata Tierna",
+        "price": 1000,
+        "stock": 5,
+        "category": "Accesorios",
+        "subcategory": "Insignias",
+        "discount": 0,
+        "tags": ["Manada"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/pata-tierna-2024-v1-247x247.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Cazador",
+        "price": 1000,
+        "stock": 10,
+        "category": "Accesorios",
+        "subcategory": "Insignias",
+        "discount": 0,
+        "tags": ["Manada"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/Cazador-2024-v1-247x247.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Travesia",
+        "price": 1000,
+        "stock": 4,
+        "category": "Accesorios",
+        "subcategory": "Insignias",
+        "discount": 0,
+        "tags": ["Unidad"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/travesia-2024-v1-247x247.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Pista",
+        "price": 1000,
+        "stock": 7,
+        "category": "Accesorios",
+        "subcategory": "Insignias",
+        "discount": 0,
+        "tags": ["Unidad"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/pista-2024-v1-247x247.jpg"
+    },
+    {
+        "id": 5,
+        "title": "",
+        "price": ,
+        "stock": ,
+        "category": "",
+        "subcategory": "",
+        "discount":,
+        "tags": [],
+        "mainImage": ""
+    },
+    {
+        "id": 6,
+        "title": "",
+        "price": ,
+        "stock": ,
+        "category": "",
+        "subcategory": "",
+        "discount":,
+        "tags": [],
+        "mainImage": ""
+    },
+    {
+        "id": 7,
+        "title": "",
+        "price": ,
+        "stock": ,
+        "category": "",
+        "subcategory": "",
+        "discount":,
+        "tags": [],
+        "mainImage": ""
+    },
+    {
+        "id": 8,
+        "title": "",
+        "price": ,
+        "stock": ,
+        "category": "",
+        "subcategory": "",
+        "discount":,
+        "tags": [],
+        "mainImage": ""
+    },
+    {
+        "id": 9,
+        "title": "",
+        "price": ,
+        "stock": ,
+        "category": "",
+        "subcategory": "",
+        "discount":,
+        "tags": [],
+        "mainImage": ""
+    },
+    {
+        "id": 10,
+        "title": "",
+        "price": ,
+        "stock": ,
+        "category": "",
+        "subcategory": "",
+        "discount":,
+        "tags": [],
+        "mainImage": ""
+    },
+]
