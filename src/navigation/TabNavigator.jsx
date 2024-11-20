@@ -23,7 +23,7 @@ const TabNavigator = () => {
                 options={{
                     tabBarIcon: ({ focused }) => (
                         <Icon
-                            name="setting"
+                            name="settings"
                             size={32}
                             color={focused ? colors.grisOscuro : colors.grisMedio}
                         />

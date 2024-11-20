@@ -13,3 +13,7 @@ export const homeSlice = createSlice({
         }
     }
 })
+
+export const {setCategory} = homeSlice.actions
+
+export default homeSlice.reducer

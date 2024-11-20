@@ -2,102 +2,16 @@
     {
         "id":1,
         "title":"Indumentaria",
-        "image":"",
-	"subcategory":[
-            {
-				"id":101,
-				"subtitle":"Camperas"
-			},
-			{
-				"id":102,
-				"subtitle":"Chombas"
-			},
-			{
-				"id":103,
-				"subtitle":"Gorras y sombreros"
-			},
-			{
-				"id":104,
-				"subtitle":"Pañuelos"
-			},
-			{
-				"id":105,
-				"subtitle":"Poncho"
-			},
-			{
-				"id":106,
-				"subtitle":"Remeras"
-			},
-			{
-				"id":107,
-				"subtitle":"Camisas"
-			}]
+        "image":""
     },
     {
         "id":2,
-        "title":"Camping",
-        "image":"",
-	"subcategory":[
-            {
-				"id":201,
-				"subtitle":"Mochilas"
-			},
-			{
-				"id":202,
-				"subtitle":"Carpas"
-			}]
+        "title":"Accesorios",
+        "image":""
     },
     {
         "id":3,
-        "title":"Accesorios",
-        "image":"",
-	"subcategory":[
-            {
-				"id":301,
-				"subtitle":"Anillos para Pañuelos"
-			},
-			{
-				"id":302,
-				"subtitle":"Banderas"
-			},
-			{
-				"id":303,
-				"subtitle":"Insignias"
-			},
-			{
-				"id":304,
-				"subtitle":"Stikers"
-			},
-			{
-				"id":305,
-				"subtitle":"Llaveros"
-			},
-			{
-				"id":306,
-				"subtitle":"Parches"
-			},
-			{
-				"id":307,
-				"subtitle":"Pins"
-			}]
-    },
-    {
-        "id":4,
         "title":"Libros",
-        "image":"",
-	"subcategory":[
-            {
-				"id":401,
-				"subtitle":"Escultimos"
-			},
-			{
-				"id":402,
-				"subtitle":"Scouts de Argentina"
-			}]
-    },
-    {
-        "id":5,
-        "title":"Internacionales",
         "image":""
     }
 ]

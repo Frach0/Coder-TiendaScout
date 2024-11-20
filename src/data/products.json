@@ -5,9 +5,8 @@
         "price": 1000,
         "stock": 5,
         "category": "Accesorios",
-        "subcategory": "Insignias",
         "discount": 0,
-        "tags": ["Manada"],
+        "tags": ["Manada", "Insignia"],
         "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/pata-tierna-2024-v1-247x247.jpg"
     },
     {
@@ -16,9 +15,8 @@
         "price": 1000,
         "stock": 10,
         "category": "Accesorios",
-        "subcategory": "Insignias",
         "discount": 0,
-        "tags": ["Manada"],
+        "tags": ["Manada", "Insignia"],
         "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/Cazador-2024-v1-247x247.jpg"
     },
     {
@@ -27,9 +25,8 @@
         "price": 1000,
         "stock": 4,
         "category": "Accesorios",
-        "subcategory": "Insignias",
         "discount": 0,
-        "tags": ["Unidad"],
+        "tags": ["Unidad", "Insignia"],
         "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/travesia-2024-v1-247x247.jpg"
     },
     {
@@ -38,75 +35,148 @@
         "price": 1000,
         "stock": 7,
         "category": "Accesorios",
-        "subcategory": "Insignias",
         "discount": 0,
-        "tags": ["Unidad"],
+        "tags": ["Unidad", "Insignia"],
         "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/pista-2024-v1-247x247.jpg"
     },
     {
         "id": 5,
-        "title": "",
-        "price": ,
-        "stock": ,
-        "category": "",
-        "subcategory": "",
-        "discount":,
-        "tags": [],
-        "mainImage": ""
+        "title": "Norte",
+        "price": 1000,
+        "stock": 22,
+        "category": "Accesorios",
+        "discount": 0,
+        "tags": ["Caminantes", "Insignia"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/06/Progresion-Caminante-Norte-247x247.jpg"
     },
     {
         "id": 6,
-        "title": "",
-        "price": ,
-        "stock": ,
-        "category": "",
-        "subcategory": "",
-        "discount":,
-        "tags": [],
-        "mainImage": ""
+        "title": "Oeste",
+        "price": 1000,
+        "stock": 32,
+        "category": "Accesorios",
+        "discount": 0,
+        "tags": ["Caminantes", "Insignia"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/06/Progresion-Caminante-Oeste-247x247.jpg"
     },
     {
         "id": 7,
-        "title": "",
-        "price": ,
-        "stock": ,
-        "category": "",
-        "subcategory": "",
-        "discount":,
-        "tags": [],
-        "mainImage": ""
+        "title": "Encuentro",
+        "price": 1000,
+        "stock": 0,
+        "category": "Accesorios",
+        "discount": 0,
+        "tags": ["Rovers", "Insignia"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/Encuentro-2024-v1-247x247.jpg"
     },
     {
         "id": 8,
-        "title": "",
-        "price": ,
-        "stock": ,
-        "category": "",
-        "subcategory": "",
-        "discount":,
-        "tags": [],
-        "mainImage": ""
+        "title": "Compromiso",
+        "price": 1000,
+        "stock": 55,
+        "category": "Accesorios",
+        "discount":0,
+        "tags": ["Rovers", "Insignia"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/Compromiso-2024-v1-247x247.jpg"
     },
     {
         "id": 9,
-        "title": "",
-        "price": ,
-        "stock": ,
-        "category": "",
-        "subcategory": "",
-        "discount":,
-        "tags": [],
-        "mainImage": ""
+        "title": "Flor de Lis Nacional",
+        "price": 800,
+        "stock": 220,
+        "category": "Accesorios",
+        "discount": 0,
+        "tags": ["Insignia"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/Flor-de-lis-nacional-tejida-2024-v2-247x247.jpg"
     },
     {
         "id": 10,
-        "title": "",
-        "price": ,
-        "stock": ,
-        "category": "",
-        "subcategory": "",
-        "discount":,
-        "tags": [],
-        "mainImage": ""
+        "title": "Flor de Lis Internacional",
+        "price": 800,
+        "stock": 154,
+        "category": "Accesorios",
+        "discount": 0,
+        "tags": ["Insignia"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/09/Flor-de-lis-internacional-tejida-2024-247x247.jpg"
     },
+    {
+        "id": 11,
+        "title": "Bermuda de gabardina",
+        "price": 30000,
+        "stock": 15,
+        "category": "Indumentaria",
+        "discount": 5,
+        "tags": ["Ropa", "Short"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2020/02/Bermuda-de-gabardina-247x247.png"
+    },
+    {
+        "id": 12,
+        "title": "Buzo World Scout",
+        "price": 65000,
+        "stock": 22,
+        "category": "Indumentaria",
+        "discount": 15,
+        "tags": ["Ropa", "Internacional"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2021/12/Buzo-World-Scout-frente-450x584.png"
+    },
+    {
+        "id": 13,
+        "title": "Pantalon Negro",
+        "price": 38200,
+        "stock": 60,
+        "category": "Indumentaria",
+        "discount": 10,
+        "tags": ["Ropa"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2021/10/muestra-pantalon-1-247x247.png"
+    },
+    {
+        "id": 14,
+        "title": "Campera de friza",
+        "price": 50000,
+        "stock": 10,
+        "category": "Indumentaria",
+        "discount": 0,
+        "tags": ["Ropa"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2023/02/campera-de-friza-4-247x247.png"
+    },
+    {
+        "id": 15,
+        "title": "Escultimo para muchachos",
+        "price": 14000,
+        "stock": 10,
+        "category": "Libros",
+        "discount": 5,
+        "tags": ["Baden Powel", "BP"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2024/07/Escultismo-2024-v2-247x247.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Cocina de Campamento",
+        "price": 6000,
+        "stock": 31,
+        "category": "Libros",
+        "discount": 0,
+        "tags": ["Campamento", "Cocina", "Cabulleria"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2020/02/Cocina-de-campamento-247x247.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Cancionero scout",
+        "price": 5000,
+        "stock": 12,
+        "category": "Libros",
+        "discount": 0,
+        "tags": ["Canciones"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2020/02/Cancionero-1-247x247.png"
+    },
+    {
+        "id": 18,
+        "title": "Chomba violeta internacional",
+        "price": 4000,
+        "stock": 7,
+        "category": "Indumentaria",
+        "discount": 0,
+        "tags": ["Ropa", "Violeta", "Internacional"],
+        "mainImage": "https://tienda.scouts.org.ar/wp-content/uploads/2023/02/Chomba-Violeta-Internacional-LR-247x247.jpg"
+    }
 ]

@@ -1,5 +1,6 @@
 import { StyleSheet, Text, View, Pressable } from 'react-native'
 import Icon from 'react-native-vector-icons/MaterialIcons'
+import { colors } from '../global/colors'
 
 const ButtonCart = () => {
   return (
@@ -20,7 +21,8 @@ const styles = StyleSheet.create({
   button: {
     width: 48,
     height: 48,
-    backgroundColor: 'yellow',
+    backgroundColor: colors.grisClaro,
+    borderRadius: 25,
     justifyContent: 'center',
     alignItems: 'center',
 
